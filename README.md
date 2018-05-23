@@ -13,8 +13,8 @@
 include('./Airbnb.php');
 
 $airbnb = new Airbnb(true);
-$airbnb->run(‘компьютер’);
-$airbnb->run(‘квадрокоптер’);
-$airbnb->run(‘кошка’);
-$airbnb->run(‘диалект’);
+$airbnb->run('компьютер');
+$airbnb->run('квадрокоптер');
+$airbnb->run('кошка');
+$airbnb->run('диалект');
 ```
